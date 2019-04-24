@@ -1,0 +1,4 @@
+Scrapy==1.5.1
+fake_useragent==0.1.11
+redis==2.10.6
+lxml==4.2.5
