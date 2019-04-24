@@ -1,7 +1,7 @@
 # Database Settings
 DB_PORT = 6379
 DB_NUM = 0
-DB_PASSWD = "redis_passroed"
+DB_PASSWD = "redis_password"
 
 DB_BASE_PROXY_EXPIRE = 36000
 DB_PROXY_EXPIRE = 72000
