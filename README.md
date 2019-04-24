@@ -4,7 +4,7 @@ Build your own proxy pool using scrapy!
 
 ## Features
 
-* customize rules
+* customize sources
 * customize checkers
 
 ## Dependences
